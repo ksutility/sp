@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from gluon.custom_import import track_changes; track_changes(True)
+from gluon.custom_import import track_changes; track_changes(True)+++
 
 from gluon.tools import Service
 service = Service()
